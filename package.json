@@ -1,0 +1,14 @@
+{
+  "name": "download-imgs",
+  "version": "0.0.1",
+  "description": "给老婆做的批量下载图片工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaXiaojun<somaxj@163.com>",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^5.0.2"
+  }
+}
